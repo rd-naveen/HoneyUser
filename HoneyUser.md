@@ -141,7 +141,7 @@ Deleted  user3  honey user accounts from the local system
 
 
 ### Thanks Note
-Would like to Thanbks John Stran/BHIS for the inspirational course on active defense and defensive countermeasures.
+Would like to Thanbks John Strand/BHIS for the inspirational course on active defense and defensive countermeasures.
 
 ### Refernces
 
